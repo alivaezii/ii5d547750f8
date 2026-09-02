@@ -21,3 +21,4 @@ jobs:
 
       - name: Run trusted validator against the full chain
         run: python3 repo/run.py post repo
+# probe
